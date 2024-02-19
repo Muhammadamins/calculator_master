@@ -1,7 +1,7 @@
 import 'package:calculator_master/youtube.dart';
 import 'package:flutter/material.dart';
 
-void main() => runApp(const App());
+void main() => runApp( MyApp());
 
 class MyApp extends StatelessWidget {
   @override
